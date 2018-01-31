@@ -27,11 +27,11 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/lonnng/nano/component"
-	"github.com/lonnng/nano/internal/codec"
-	"github.com/lonnng/nano/internal/message"
-	"github.com/lonnng/nano/internal/packet"
-	"github.com/lonnng/nano/session"
+	"github.com/liaolunhui/nano/component"
+	"github.com/liaolunhui/nano/internal/codec"
+	"github.com/liaolunhui/nano/internal/message"
+	"github.com/liaolunhui/nano/internal/packet"
+	"github.com/liaolunhui/nano/session"
 )
 
 // Unhandled message buffer size
